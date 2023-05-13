@@ -1,4 +1,5 @@
-{"icecream":[
+{
+"icecream":[
 	{
 		"id":1,
 		"name": "Dark Chocolate",
@@ -22,6 +23,6 @@
 		"Description": "Fresh and fruity strawberry ice cream.",
 		"Price": 300,
 		"Stock": 8
-  }
+	}
 ]
 }
