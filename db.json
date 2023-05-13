@@ -23,8 +23,8 @@
 		"Description": "Fresh and fruity strawberry ice cream.",
 		"Price": 300,
 		"Stock": 8
-	}
-],
+	},
+]
 	"cart":[
 	{
 		"id":1,
